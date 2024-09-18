@@ -70,6 +70,9 @@ ul{
 .header img{
     max-width: 400px;
 }
+.header p{
+    color:orange;
+}
 .header .container{
     display:flex;
     align-items: center;

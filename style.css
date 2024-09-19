@@ -102,6 +102,12 @@ footer{
 .header ul li i{
     font-size: 30px;
 }
+.header i{
+    color:green;
+}
+.header a:hover{
+color:orange;
+}
 /*mobile shit*/
 @media (max-width: 768px){
     .header .container {

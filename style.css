@@ -108,10 +108,10 @@ ul{
     .header ul{
         display:flex;
         justify-content:space-between;
-        max-width:50%;
+        width:50%;
         
         }
-        .header i{
+        .header li{
             color:orange;
         }
     .header a:hover{

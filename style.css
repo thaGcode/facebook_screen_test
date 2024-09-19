@@ -97,6 +97,7 @@ ul{
 footer{
     background:orangered;
     color:green;
+    text-align:center;
 }
 /*mobile shit*/
 @media (max-width: 768px){

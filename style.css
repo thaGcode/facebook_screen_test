@@ -110,9 +110,7 @@ ul{
         justify-content:space-between;
         max-width:50%;
         color:orange;
-        font-family:18px;
-        
-    }
+        }
     .header a:hover{
         color:green;
     }

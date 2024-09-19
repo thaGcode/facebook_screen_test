@@ -110,6 +110,9 @@ footer{
 .header a:hover{
 color:orange;
 }
+span{
+    color:rgb(4, 163, 4);
+}
 /*mobile shit*/
 @media (max-width: 768px){
     .header .container {

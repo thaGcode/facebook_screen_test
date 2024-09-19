@@ -94,6 +94,10 @@ ul{
 .box p{
     color:white;
 }
+footer{
+    background:orangered;
+    color:green;
+}
 /*mobile shit*/
 @media (max-width: 768px){
     .header .container {

@@ -98,7 +98,9 @@ footer{
     background:green;
     color:orange;
     text-align:center;
+    height:30px;
 }
+
 .header ul li i{
     font-size: 30px;
 }

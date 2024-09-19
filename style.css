@@ -108,7 +108,7 @@ ul{
     .header ul{
         display:flex;
         justify-content:space-between;
-        width:50%;
+        width:25%;
         }
         .header li{
             color:orange;

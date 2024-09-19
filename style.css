@@ -111,7 +111,8 @@ footer{
 color:orange;
 }
 span{
-    color:rgb(4, 163, 4);
+    color:white;
+    font-weight: bold;
 }
 /*mobile shit*/
 @media (max-width: 768px){
@@ -133,7 +134,7 @@ span{
             color:orange;
         }
     .header a:hover{
-        color:white;
-        font-weight:bold;
+        color:green;
+    
     }
 }

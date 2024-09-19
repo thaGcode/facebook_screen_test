@@ -133,6 +133,7 @@ span{
             color:orange;
         }
     .header a:hover{
-        color:green;
+        color:white;
+        font-weight:bold;
     }
 }
